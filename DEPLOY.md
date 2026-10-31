@@ -7,7 +7,7 @@ GitHub Pages serves the static project page only. Streamlit needs a Python proce
 1. Open https://share.streamlit.io and sign in with GitHub.
 2. Select **New app**.
 3. Use these settings:
-   - Repository: `Va11eyard/ai-sport`
+   - Repository: `Arafatttttttt/ai-sport`
    - Branch: `dev`
    - Main file path: `app.py`
    - App URL: choose a subdomain, for example `transfer-decision-lab`

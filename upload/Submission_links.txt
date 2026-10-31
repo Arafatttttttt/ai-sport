@@ -1,4 +1,8 @@
-GitHub repository: https://github.com/Va11eyard/ai-sport (branch dev)
+Assignment 5, AAI-2504M
+Team: Dinmukhammed Mynzhassar, Laura Duisenova, Zhaidar Kairat
+
+GitHub repository: https://github.com/Arafatttttttt/ai-sport (branch dev)
+Live project page: https://arafatttttttt.github.io/ai-sport/
 Report: Assignment5_Report.pdf
 Slides: Assignment5_Presentation.pdf
-App: python -m streamlit run app.py
+App: run locally with python -m streamlit run app.py

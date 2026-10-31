@@ -30,7 +30,7 @@ REPLACEMENTS = {
     "../outputs/figures/backtest_uplift.png": "assets/img/backtest_uplift.png",
     "../report/Assignment5_Report.pdf": "report/Assignment5_Report.pdf",
     "../presentation/Assignment5_Presentation.pdf": "presentation/Assignment5_Presentation.pdf",
-    "../README.md": "https://github.com/Va11eyard/ai-sport/blob/dev/README.md",
+    "../README.md": "https://github.com/Arafatttttttt/ai-sport/blob/dev/README.md",
 }
 
 
