@@ -2,9 +2,7 @@
 
 **AI Football Intelligence: from data to transfer decisions**
 
-Assignment 5, AAI-2504M, October 2026
-
-Team: Dinmukhammed Mynzhassar, Laura Duisenova, Zhaidar Kairat
+Assignment 5, October 2026
 
 Leicester City, summer 2016. Replace N'Golo Kanté, rebuild the spine and stay inside a EUR 50m fee budget.
 
@@ -119,7 +117,7 @@ Nine unit tests cover counts, model improvement over the baseline, leakage contr
 
 ## AI use
 
-An LLM coding assistant was used for code scaffolding, event-schema checks, debugging and drafting. It was given the data schemas, the case constraints and the cutoff rule. It did not generate the reported numbers. All tables and figures come from the committed scripts. The team checked the player mapping, the model specification and the recommendation.
+An LLM coding assistant was used for code scaffolding, event-schema checks, debugging and drafting. It was given the data schemas, the case constraints and the cutoff rule. It did not generate the reported numbers. All tables and figures come from the committed scripts. We checked the player mapping, the model specification and the recommendation.
 
 ## Links
 

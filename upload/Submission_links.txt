@@ -1,5 +1,4 @@
-Assignment 5, AAI-2504M
-Team: Dinmukhammed Mynzhassar, Laura Duisenova, Zhaidar Kairat
+Assignment 5, October 2026
 
 GitHub repository: https://github.com/Arafatttttttt/ai-sport (branch dev)
 Live project page: https://arafatttttttt.github.io/ai-sport/

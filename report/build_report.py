@@ -106,8 +106,6 @@ def build_blocks() -> Blocks:
         subtitle="From data to transfer decisions",
         assignment="Assignment 5",
         case="Replacing N'Golo Kanté at Leicester City, summer 2016",
-        author="Dinmukhammed Mynzhassar, Laura Duisenova, Zhaidar Kairat",
-        team="AAI-2504M",
         date="October 2026",
         strip=[
             ("Decision", "Sign Gueye, Cook and Ighalo for EUR 24m"),
@@ -868,11 +866,10 @@ def render_docx(blocks: Blocks, out_path: Path):
                 r.font.size = Pt(12)
                 r.font.color.rgb = RGBColor(0x33, 0x33, 0x33)
             doc.add_paragraph()
-            for label in ("author", "team", "date"):
-                p = doc.add_paragraph()
-                r = p.add_run(sanitize(data[label]))
-                r.font.size = Pt(10.5)
-                r.font.color.rgb = RGBColor(0x55, 0x55, 0x55)
+            p = doc.add_paragraph()
+            r = p.add_run(sanitize(data["date"]))
+            r.font.size = Pt(10.5)
+            r.font.color.rgb = RGBColor(0x55, 0x55, 0x55)
             doc.add_paragraph()
             table = doc.add_table(rows=1, cols=3)
             table.alignment = WD_TABLE_ALIGNMENT.CENTER
@@ -994,7 +991,7 @@ def render_html(blocks: Blocks, path: Path):
             parts.append(f"<div class='sub'>{esc(data['subtitle'])}</div>")
             parts.append(f"<div class='case'>{esc(data['assignment'])}</div>")
             parts.append(f"<div class='case'>{esc(data['case'])}</div>")
-            parts.append(f"<div class='meta'>{esc(data['author'])}<br>{esc(data['team'])}<br>{esc(data['date'])}</div>")
+            parts.append(f"<div class='meta'>{esc(data['date'])}</div>")
             parts.append("<div class='strip'>")
             for label, value in data["strip"]:
                 parts.append(f"<div class='cell'><b>{esc(label)}</b><span>{esc(value)}</span></div>")

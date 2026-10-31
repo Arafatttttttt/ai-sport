@@ -22,11 +22,11 @@ Slides are in English. Use the English lines as written, or translate them live.
 | Risk | Фильтрует шортлист | 20-90: план тот же, потому что выбранные игроки уже безопасны |
 | Age | Отсекает возрастных игроков | 27: Кинг вместо Игало. 25: ван Дейк, Эмре Джан, Кинг. 24: Мбемба, Эмре Джан, Митрович |
 
-## Dinmukhammed, slides 1 to 4
+## Speaker 1, slides 1 to 4
 
 **Slide 1**
 
-"We are Dinmukhammed, Laura and Zhaidar, AAI-2504M. Our question is how to replace Kanté with a EUR 50m budget and keep Leicester's identity. Our answer is Gueye, Cook and Ighalo for EUR 24m."
+"Our question is how to replace Kanté with a EUR 50m budget and keep Leicester's identity. Our answer is Gueye, Cook and Ighalo for EUR 24m."
 
 **Slide 2**
 
@@ -38,9 +38,9 @@ Slides are in English. Use the English lines as written, or translate them live.
 
 **Slide 4**
 
-"Leicester had 42.6% possession and the lowest pass completion in the league, but 1.74 xG per match. Kanté made 1,594 defensive actions and 545 progressive passes and carries. They needed a destroyer, not a playmaker. Laura will show how we measured it."
+"Leicester had 42.6% possession and the lowest pass completion in the league, but 1.74 xG per match. Kanté made 1,594 defensive actions and 545 progressive passes and carries. They needed a destroyer, not a playmaker. Speaker 2 will show how we measured it."
 
-## Laura, slides 5 to 7
+## Speaker 2, slides 5 to 7
 
 **Slide 5**
 
@@ -54,7 +54,7 @@ Slides are in English. Use the English lines as written, or translate them live.
 
 "Undervalued players gained 11.8% over two years, the rest lost 10.9%. The hit rate was 52.8% against 35.8%. The global model beat the rest in all 10 evaluation seasons on a relative basis. It is a modest edge, not a guarantee."
 
-## Zhaidar, slides 8 to 10
+## Speaker 3, slides 8 to 10
 
 **Slide 8**
 
@@ -68,7 +68,7 @@ Slides are in English. Use the English lines as written, or translate them live.
 
 "The risks are Gueye's passing, Cook's step up, Ighalo's one season and the pressing work. If the budget falls 20%, the plan still fits at EUR 24m. The limitations are one league, market value as a fee proxy and the retrospective case."
 
-## Dinmukhammed, slide 11
+## Speaker 1, slide 11
 
 **Slide 11**
 

@@ -34,7 +34,7 @@ def slide(kicker: str, title: str, body: str, number: int, dark: bool = False, e
   <h1>{esc(title)}</h1>
   <div class="body">{body}</div>
   {extra}
-  <div class="footer"><span>Assignment 5 | AAI-2504M</span><span>Leicester City, summer 2016</span></div>
+  <div class="footer"><span>Assignment 5</span><span>Leicester City, summer 2016</span></div>
 </section>
 """
 
@@ -60,8 +60,6 @@ def build() -> str:
     <div class="title-grid">
       <div>
         <p class="lede">Leicester City, summer 2016. Replace N'Golo Kanté, rebuild the spine, keep the budget.</p>
-        <p class="author">Dinmukhammed Mynzhassar, Laura Duisenova, Zhaidar Kairat</p>
-        <p class="author small-author">AAI-2504M</p>
         <div class="stats">
           {stat("380", "real matches parsed")}
           {stat("30,939", "player seasons priced")}
@@ -276,8 +274,6 @@ def build() -> str:
     .title-grid { display: grid; grid-template-columns: 1.05fr 1fr; gap: 0.35in; align-items: start; }
     .title-image figure { margin: 0; }
     .title-image img { width: 100%; max-height: 4.4in; object-fit: contain; }
-    .author { font-size: 12pt; color: #333333; margin-top: 12pt; }
-    .small-author { font-size: 10pt; color: #555555; margin-top: 4pt; }
     .stats { display: flex; gap: 0.22in; margin-top: 14pt; flex-wrap: wrap; }
     .stats.four { margin-top: 10pt; }
     .stats.two { margin-top: 0; margin-bottom: 12pt; }

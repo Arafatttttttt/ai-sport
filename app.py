@@ -370,4 +370,4 @@ with tabs[4]:
         "streamlit run app.py",
         language="bash",
     )
-    st.caption("Author: Dinmukhammed Mynzhassar, AAI-2504M. Case: Leicester City, summer 2016. Data: StatsBomb open data and Transfermarkt datalake.")
+    st.caption("Case: Leicester City, summer 2016. Data: StatsBomb open data and Transfermarkt datalake.")
